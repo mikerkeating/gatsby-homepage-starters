@@ -2177,7 +2177,7 @@
         {
           "id": "category",
           "name": "Category",
-          "type": "Text",
+          "type": "Symbol",
           "localized": false,
           "required": false,
           "validations": [],
